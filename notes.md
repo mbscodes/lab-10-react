@@ -7,7 +7,7 @@
 ## Run locally
 
 ```bash
-npm ci
+npm install
 npm run dev
 ```
 
